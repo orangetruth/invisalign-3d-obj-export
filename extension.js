@@ -12,7 +12,7 @@ function contextClick(info, tab) {
     if (menuItemId === 'export') {
         browser.scripting.executeScript({
             target: {tabId: tab.id},
-            files: ['scanExporter.js'],
+            files: ['invisalignToObj.js'],
             world: 'MAIN'
         });
     }
