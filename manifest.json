@@ -1,9 +1,9 @@
 {
-  "name": "Invisalign scan exporter",
+  "name": "Invisalign 3d Obj Export",
   "version": "1.0",
-  "manifest_version": 1,
+  "manifest_version": 3,
   "description": "Export your invisalign scans to a .obj file!",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/orangetruth/invisalign-3d-obj-export",
   "background": {
     "service_worker": "extension.js"
   },
