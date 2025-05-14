@@ -1,0 +1,24 @@
+{
+  "name": "Invisalign scan exporter",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "Export your invisalign scans to a .obj file!",
+  "homepage_url": "",
+  "background": {
+    "service_worker": "extension.js"
+  },
+  "permissions": [
+    "contextMenus",
+    "scripting",
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+      "*://share.invisalign.com/treatment-viewer/*"
+  ],
+  "web_accessible_resources": [{
+    "resources": ["scanExporter.js"],
+    "matches": ["<all_urls>"]
+  }]
+}
