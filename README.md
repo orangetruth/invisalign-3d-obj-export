@@ -16,3 +16,7 @@ a chrome extension to export invisalign scans to 3d printable object files
 
 ![image](https://github.com/user-attachments/assets/0375644f-5159-4da4-bf5c-52822f709708)
 
+# What if I don't want to use Chrome?
+
+Copy the code from [invisalignToObj.js](https://github.com/orangetruth/invisalign-3d-obj-export/blob/main/invisalignToObj.js) and paste it into the console of any web browser and run it.
+
