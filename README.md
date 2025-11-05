@@ -8,7 +8,9 @@ a chrome extension to export invisalign scans to 3d printable object files
 
 ![image](https://github.com/user-attachments/assets/1a385409-fb91-4315-9341-355ad1f8d347)
 
-2. Open your Invisalign scan in the Simulation Viewer, go to the extension, and choose Export Mesh to download before and after files for your top and bottom teeth
+2. Open your share.invisalign.com treatment outcome simulation in the Simulation Viewer, go to the extension, and choose Export Mesh to download before and after files for your top and bottom teeth
+
+<img width="1125" height="1789" alt="image" src="https://github.com/user-attachments/assets/dc279b57-9229-4371-9fab-1dbe6935a886" />
 
 ![image](https://github.com/user-attachments/assets/24340812-2d0e-4a33-b803-9a3d6492c5c1)
 
